@@ -11,4 +11,3 @@ This repository is about the visualisation of Quadtree and how it segments 2-D s
 - HTML
 - CSS
 - JavaScript
-# Collision-Detection
